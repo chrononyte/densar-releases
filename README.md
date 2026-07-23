@@ -1,3 +1,5 @@
+![Densar BK — rebuild the PC, not just the files](https://www.chrononsync.com/assets/img/og/densar.png)
+
 # Densar BK
 
 **Rebuild the PC, not just the files.**
