@@ -1,0 +1,7 @@
+# The binary lives in GitHub Releases, not in the repo tree.
+*.exe
+*.msi
+
+# Windows
+Thumbs.db
+desktop.ini
