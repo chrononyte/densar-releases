@@ -1,4 +1,4 @@
-![Densar BK: rebuild the PC, not just the files](https://www.chrononyte.com/assets/img/og/densar.png)
+![Densar BK: rebuild the PC, not just the files](https://www.chrononyte.com/assets/img/og/densar.png?v=2)
 
 # Densar BK
 
