@@ -1,10 +1,10 @@
-![Densar BK: rebuild the PC, not just the files](https://www.chrononsync.com/assets/img/og/densar.png)
+![Densar BK: rebuild the PC, not just the files](https://www.chrononyte.com/assets/img/og/densar.png)
 
 # Densar BK
 
 **Rebuild the PC, not just the files.**
 
-[Densar BK](https://www.chrononsync.com/projects/densar/) is an encrypted backup that rebuilds an entire **Windows** working setup on a new machine: the folder links (junctions), the credentials, the programs a project needs and the dependencies to reinstall. Not just the files.
+[Densar BK](https://www.chrononyte.com/projects/densar/) is an encrypted backup that rebuilds an entire **Windows** working setup on a new machine: the folder links (junctions), the credentials, the programs a project needs and the dependencies to reinstall. Not just the files.
 
 This repository hosts the **downloads** for Densar BK. The program is a commercial product and is **not open source**.
 
@@ -37,10 +37,10 @@ Unlike an ordinary copy, Densar reads the machine as it is today and **puts the 
 
 ## Links
 
-- Product & pricing: <https://www.chrononsync.com/projects/densar/>
-- FAQ: <https://www.chrononsync.com/projects/densar/faq.html>
-- Honest comparison (vs copying by hand, cloud sync, a disk image, Docker/Ansible): <https://www.chrononsync.com/projects/densar/alternatives.html>
+- Product & pricing: <https://www.chrononyte.com/projects/densar/>
+- FAQ: <https://www.chrononyte.com/projects/densar/faq.html>
+- Honest comparison (vs copying by hand, cloud sync, a disk image, Docker/Ansible): <https://www.chrononyte.com/projects/densar/alternatives.html>
 
 ---
 
-© 2026 Chronon Sync. Densar BK is a commercial product; all rights reserved. This repository provides the installer and release notes only.
+© 2026 Chrononyte. Densar BK is a commercial product; all rights reserved. This repository provides the installer and release notes only.
