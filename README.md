@@ -12,8 +12,8 @@ This repository hosts the **downloads** for Densar BK. The program is a commerci
 
 Get the latest build from the [**Releases**](../../releases) page.
 
-- **Version:** 1.1.1 · Windows · one file, ~13 MB
-- **SHA256:** `ef9595fd1525483e8b27363746373a326cf19c742ff98ad38ec07fe24fe275b0`
+- **Version:** 2.0.0 · Windows · one file, ~15 MB
+- **SHA256:** `442b03c8df9357c376a3e5c3af9bd9533a32753c50c1fdb2b3f1794babf6f4fd`
 
 Verify what you downloaded. In PowerShell, in the folder where you saved it:
 
@@ -32,7 +32,7 @@ Densar is **not code-signed yet**, so the first time Windows may show a warning 
 Unlike an ordinary copy, Densar reads the machine as it is today and **puts the setup back together** on the new PC: it remaps Windows junctions instead of turning them into diverging duplicates, carries the credentials and config that git ignores, re-homes an AI assistant's memory under the new user, works out which programs the projects need (via `winget`) and installs them, and after restoring it lists the exact steps still missing to actually run each project.
 
 - **Classic backups** (Mirror, Full, Differential, Incremental) are **free forever**, in open formats (`age`, `.tar.gz`).
-- **BK Smart AI** (the smart one that rebuilds the machine) is **39 € once**, not a subscription.
+- **BK Smart AI** (the smart one that rebuilds the machine) is **59 € once**, not a subscription.
 - **Restoring is always free**, for anyone, on any machine, even offline.
 
 ## Links
