@@ -4,7 +4,7 @@
 
 **Rebuild the PC, not just the files.**
 
-[Densar BK](https://www.chrononyte.com/projects/densar/) is an encrypted backup that rebuilds an entire **Windows** working setup on a new machine: the folder links (junctions), the credentials, the programs a project needs and the dependencies to reinstall. Not just the files.
+[Densar BK](https://www.chrononyte.com/projects/densar/) is an encrypted backup that rebuilds an entire **Windows** working setup on a new machine: the folder links (junctions), the credentials, your AI assistants' memory, the programs a project needs and the dependencies to reinstall. Not just the files.
 
 This repository hosts the **downloads** for Densar BK. The program is a commercial product and is **not open source**.
 
@@ -12,8 +12,8 @@ This repository hosts the **downloads** for Densar BK. The program is a commerci
 
 Get the latest build from the [**Releases**](../../releases) page.
 
-- **Version:** 2.0.0 · Windows · one file, ~15 MB
-- **SHA256:** `442b03c8df9357c376a3e5c3af9bd9533a32753c50c1fdb2b3f1794babf6f4fd`
+- **Version:** 2.0.1 · Windows · one file, ~15 MB
+- **SHA256:** `9b4490ec73e8882e311501e96580faa71c9d99c6c41c3a3a34cc1be7508b4f1c`
 
 Verify what you downloaded. In PowerShell, in the folder where you saved it:
 
