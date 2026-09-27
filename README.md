@@ -12,8 +12,8 @@ This repository hosts the **downloads** for Densar BK. The program is a commerci
 
 Get the latest build from the [**Releases**](../../releases) page.
 
-- **Version:** 3.0.4 · Windows · one file, ~17 MB
-- **SHA256:** `4f30aa1f19a467a6f512493c36a0b216c4a80cb4aa8e05d90799bfe882c62394`
+- **Version:** 3.0.5 · Windows · one file, ~17 MB
+- **SHA256:** `34039920e75d16a9e5d7cf988da9afc73151fb18727fcd5f9e2e269841dd7591`
 
 Verify what you downloaded. In PowerShell, in the folder where you saved it:
 
