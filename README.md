@@ -12,8 +12,8 @@ This repository hosts the **downloads** for Densar BK. The program is a commerci
 
 Get the latest build from the [**Releases**](../../releases) page.
 
-- **Version:** 3.0.5 · Windows · one file, ~17 MB
-- **SHA256:** `34039920e75d16a9e5d7cf988da9afc73151fb18727fcd5f9e2e269841dd7591`
+- **Version:** 4.0.0 · Windows · one file, ~18 MB
+- **SHA256:** `3663ef0be7d599d845e216c9fba9fba9f2c3881c991f86edb0378c84cda7408f`
 
 Verify what you downloaded. In PowerShell, in the folder where you saved it:
 
@@ -31,8 +31,10 @@ Densar is **not code-signed yet**, so the first time Windows may show a warning 
 
 Unlike an ordinary copy, Densar reads the machine as it is today and **puts the setup back together** on the new PC: it remaps Windows junctions instead of turning them into diverging duplicates, carries the credentials and config that git ignores, re-homes an AI assistant's memory under the new user, works out which programs the projects need (via `winget`) and installs them, and after restoring it lists the exact steps still missing to actually run each project.
 
-- **Classic backups** (Mirror, Full, Differential, Incremental) are **free forever**, in open formats (`age`, `.tar.gz`).
-- **BK Smart AI** (the smart one that rebuilds the machine) is **59 € once**, not a subscription.
+**Since 4.0.0 it also works on whole disks.** *Clone system* copies only what Windows needs to start and fits a smaller disk too, as long as the data does; *Clone disk* copies every partition; *Clone partition* copies just one. The copy reads from a snapshot, so Windows can stay on, and the new disk boots on its own once fitted in place of the old one. Next to it there is a partition manager (create, resize, format, delete) and a disk health check (status, life left, temperature, power-on hours, data written).
+
+- **Classic backups** (Mirror, Full, Differential, Incremental) and the **disk health check** are **free forever**; the backups are in open formats (`age`, `.tar.gz`).
+- **BK Smart AI** (the smart one that rebuilds the machine), **disk cloning** and the **partition manager** are **59 € once**, not a subscription.
 - **Restoring is always free**, for anyone, on any machine, even offline.
 
 ## Links
