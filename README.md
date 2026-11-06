@@ -23,6 +23,16 @@ Get-FileHash densar.exe
 
 If the hash matches the one above, character for character, the file is byte for byte the one we published.
 
+### Beta channel
+
+Next to the stable version there is a **beta**: the same program with the latest work in it, before it has been tried on enough machines to be called stable. It is published as a **pre-release**, so the "latest" link above never points to it and the stable version's in-app update never offers it. It carries the number of the version to come.
+
+- **Beta:** 4.1.0-beta.1 (6 November 2026) · [download](https://github.com/chrononyte/densar-releases/releases/download/v4.1.0-beta.1/densar.exe) · Windows · one file, ~18 MB
+- **SHA256 of the beta:** `512a3bf28274541db7922872d42187dc12fb8e28129eb4fe37ebe7ed5dce801b`
+- What is in it: *Clone system* from an MBR disk staying MBR (the copy boots from a BIOS with no UEFI, boot rebuilt on the copy); the Windows recovery environment (WinRE) attached to the copy; *Clone system* to a smaller disk goes on when a file's record has no room for its new list of pieces; *Clone disk* from disks with factory 32 KB NTFS; disk health for NVMe drives in USB enclosures (JMicron bridge); finishing errors carry Windows' own words; the boot is rebuilt from Windows 10 as well. The MBR copy and WinRE are the newest parts and have had the least road: that is what the beta is for.
+
+Keep the stable one for the backups you depend on.
+
 ### "Windows says it's suspicious"
 
 Densar is **not code-signed yet**, so the first time Windows may show a warning screen (it can be red): it is not a virus, and nothing was found in the file. It is simply a new program with no download history. To go ahead, click the small link under the message ("More info" / "More details"): the **Run anyway** button then appears. Downloading from GitHub Releases and checking the SHA256 above is exactly how you make sure the file is genuine.
